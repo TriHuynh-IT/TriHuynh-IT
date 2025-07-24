@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Huỳnh Minh Trí (TriHuynh-IT)</h1>
+<h1 align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="10">
+    👋 Hi, I'm Huỳnh Minh Trí (TriHuynh-IT)
+  </marquee>
+</h1>
+
 
 <p align="center">
   A passionate Front-End Developer from Việt Nam 🇻🇳
