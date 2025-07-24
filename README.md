@@ -32,25 +32,29 @@
 
 
 ---
-
 ## 📌 My Projects
 
-### 🌐 [My Portfolio Website](https://your-portfolio-link.com)
-> 🚀 A beautiful and responsive website to showcase my works.
+> ### 🌐 [Portfolio Website](https://your-portfolio-link.com)
+> 🚀 **A beautiful, responsive website** to showcase my personal projects, skills, and resume. Built with clean UI/UX and modern web technologies.
 >
-> ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+> 🛠️ **Tech Stack**:  
+> ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+> ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+>
+> 🔗 [Live Demo](https://your-portfolio-link.com) • [Source Code](https://github.com/your-github/portfolio)
 
 ---
 
-### 💻 [React Todo App](https://your-react-todo-link.com)
-> ✏️ A simple todo app with React hooks and local storage.
+> ### 💻 [React Todo App](https://your-react-todo-link.com)
+> ✏️ **A simple yet powerful todo app** using React Hooks and Local Storage. You can add, edit, delete and persist todos easily.
 >
-> ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+> 🛠️ **Tech Stack**:  
+> ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+> ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+>
+> 🔗 [Live Demo](https://your-react-todo-link.com) • [Source Code](https://github.com/your-github/react-todo-app)
 
----
 
 ## 📫 Contact me
 
