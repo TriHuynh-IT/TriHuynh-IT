@@ -14,14 +14,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=TriHuynh-IT&show_icons=true&theme=radical" alt="TriHuynh-IT stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TriHuynh-IT&theme=radical" alt="streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TriHuynh-IT&theme=react-dark" />
-</p>
-
 <!-- KỸ NĂNG -->
 
 ## 🛠️ Skills
