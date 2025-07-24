@@ -1,40 +1,39 @@
-<h1 align="center">Hi 👋, I'm Huỳnh Minh Trí (TriHuynh-IT)</h1>
+# 👋 I'm Huỳnh Minh Trí (TriHuynh-IT)
 
-<p align="center">
-  A passionate Front-End Developer from Việt Nam 🇻🇳
-</p>
+🎯 I'm passionate about Front-end Development and UI/UX design.
 
----
+## 🚀 Skills
 
-## 🛠️ Skills
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
-## 📌 Featured Projects
+## 📌 My Projects
 
-[![Project Test](https://github-readme-stats.vercel.app/api/pin/?username=TriHuynh-IT&repo=TriHuynh-IT&cache_seconds=86400&theme=highcontrast)](https://github.com/TriHuynh-IT)
-
-<!--
-👉 Muốn thêm dự án? Copy dòng dưới và sửa lại username + repo:
-[![Tên dự án](https://github-readme-stats.vercel.app/api/pin/?username=TriHuynh-IT&repo=ten-repo&theme=highcontrast)](https://github.com/TriHuynh-IT/ten-repo)
--->
-
----
-
-## 📫 Contact me
-
-- GitHub: [TriHuynh-IT](https://github.com/TriHuynh-IT)
-- Email: **huynhminhtri062005@gmail.com**
+### 🌐 [My Portfolio Website](https://your-portfolio-link.com)
+> 🚀 A beautiful and responsive website to showcase my works.
+>
+> ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TriHuynh-IT&label=Profile+Views&color=blue&style=flat" alt="TriHuynh-IT" />
-</p>
+### 💻 [React Todo App](https://your-react-todo-link.com)
+> ✏️ A simple todo app with React hooks and local storage.
+>
+> ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+---
+
+## 🔗 Connect with me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/yourname)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TriHuynh-IT)
+
+---
