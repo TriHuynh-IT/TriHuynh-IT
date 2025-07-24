@@ -1,8 +1,10 @@
 <h1 align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="10">
-    👋 Hi, I'm Huỳnh Minh Trí (TriHuynh-IT)
-  </marquee>
+  ✨ <span style="color:#00aced;">Hi 👋, I'm <b>Huỳnh Minh Trí</b> (TriHuynh-IT)</span> ✨  
 </h1>
+<p align="center">
+  <i>🚀 Front-End Developer | 🌏 Việt Nam 🇻🇳 | ❤️ Passionate about UI/UX & React</i>
+</p>
+
 
 
 <p align="center">
