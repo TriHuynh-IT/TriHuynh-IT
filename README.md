@@ -1,1 +1,2 @@
-![Readme Card](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=highcontrast_icons=true)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
