@@ -19,7 +19,7 @@
 
 ## 📌 Featured Projects
 
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=TriHuynh-IT&repo=demo-project&theme=highcontrast)](https://github.com/TriHuynh-IT/demo-project)
+[![Project Test](https://github-readme-stats.vercel.app/api/pin/?username=TriHuynh-IT&repo=TriHuynh-IT&cache_seconds=86400&theme=highcontrast)](https://github.com/TriHuynh-IT)
 
 <!--
 👉 Muốn thêm dự án? Copy dòng dưới và sửa lại username + repo:
