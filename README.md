@@ -1,13 +1,19 @@
-# 👋 I'm Huỳnh Minh Trí (TriHuynh-IT)
+<h1 align="center">Hi 👋, I'm Huỳnh Minh Trí (TriHuynh-IT)</h1>
 
-🎯 I'm passionate about Front-end Development and UI/UX design.
+<p align="center">
+  A passionate Front-End Developer from Việt Nam 🇻🇳
+</p>
 
-## 🚀 Skills
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+## 🛠️ Skills
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
 
 ---
 
@@ -30,10 +36,10 @@
 
 ---
 
-## 🔗 Connect with me
+## 📫 Contact me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/yourname)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TriHuynh-IT)
+- GitHub: [TriHuynh-IT](https://github.com/TriHuynh-IT)
+- Email: **huynhminhtri062005@gmail.com**
 
 ---
+
