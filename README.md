@@ -1,2 +1,2 @@
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=TriHuynh-IT&repo=Test&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
