@@ -33,7 +33,7 @@
 ## 📫 Contact me
 
 - GitHub: [TriHuynh-IT](https://github.com/TriHuynh-IT)
-- Email: **huynhminhtri.dev@gmail.com** (hoặc thay bằng email thật nếu bạn muốn)
+- Email: **huynhminhtri062005@gmail.com**
 
 ---
 
