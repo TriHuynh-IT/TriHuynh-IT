@@ -10,9 +10,6 @@
 > "Code with passion. Build with purpose."  
 > "Tôi không chỉ viết code, tôi xây dựng trải nghiệm người dùng."
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TriHuynh-IT&show_icons=true&theme=radical" alt="TriHuynh-IT stats" />
-</p>
 
 <!-- KỸ NĂNG -->
 
