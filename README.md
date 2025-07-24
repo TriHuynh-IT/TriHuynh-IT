@@ -19,8 +19,6 @@
 
 ## 📌 Featured Projects
 
-### 🔗 Dự án mẫu (bạn có thể thêm nhiều cái theo mẫu này)
-
 [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=TriHuynh-IT&repo=demo-project&theme=highcontrast)](https://github.com/TriHuynh-IT/demo-project)
 
 <!--
