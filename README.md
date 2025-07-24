@@ -5,6 +5,22 @@
 </p>
 
 ---
+<!-- Slogan / Quote giới thiệu bản thân -->
+
+> "Code with passion. Build with purpose."  
+> "Tôi không chỉ viết code, tôi xây dựng trải nghiệm người dùng."
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TriHuynh-IT&show_icons=true&theme=radical" alt="TriHuynh-IT stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TriHuynh-IT&theme=radical" alt="streak stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TriHuynh-IT&theme=react-dark" />
+</p>
 
 <!-- KỸ NĂNG -->
 
@@ -18,6 +34,13 @@
 </p>
 
 ---
+
+## 📚 I'm Currently Learning
+- TypeScript
+- Tailwind CSS
+- Redux Toolkit
+- Next.js
+
 
 ---
 
@@ -42,8 +65,15 @@
 
 ## 📫 Contact me
 
-- GitHub: [TriHuynh-IT](https://github.com/TriHuynh-IT)
-- Email: **huynhminhtri062005@gmail.com**
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:huynhminhtri062005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 
 ---
 
