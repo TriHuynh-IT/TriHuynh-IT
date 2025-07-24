@@ -16,6 +16,13 @@
 </p>
 
 ---
+## 📊 GitHub Stats
+
+![TriHuynh-IT's GitHub stats](https://github-readme-stats.vercel.app/api?username=TriHuynh-IT&show_icons=true&theme=highcontrast)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TriHuynh-IT&layout=compact&theme=highcontrast)
+
+---
 
 ## 📌 My Projects
 
