@@ -23,6 +23,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TriHuynh-IT&layout=compact&theme=highcontrast)
 
 ---
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TriHuynh-IT&theme=onedark&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ## 📌 My Projects
 
